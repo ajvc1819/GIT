@@ -17,7 +17,8 @@ namespace EjemploPuerta
         {
             ancho = 50;
             alto = 208;
-            color = 0xFFFFFF;
+            //Aqui he hecho un cambio de color de la puerta
+            color = 0000000;
             abierta = false;
         }
         public Puerta(int an, int al)
