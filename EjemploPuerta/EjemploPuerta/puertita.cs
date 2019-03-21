@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EjemploPuerta
 {
-    //ejemplo vacio
+    //ejemplo vacio 
     class puertita
     {
     }
