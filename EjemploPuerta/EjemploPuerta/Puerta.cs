@@ -16,7 +16,8 @@ namespace EjemploPuerta
         public Puerta()
         {
             ancho = 50;
-            alto = 208;
+            // Aqui he cambiado el alto de la puerta
+            alto = 180;
             //Aqui he hecho un cambio de color de la puerta
             color = 0000000;
             abierta = false;
